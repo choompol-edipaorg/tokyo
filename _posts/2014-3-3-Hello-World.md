@@ -3,7 +3,7 @@ layout: post
 title: TOKYO
 ---
 
-25 Dec 2022
+25 Dec 2022 : To Haneda
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
